@@ -927,6 +927,19 @@
       "project": "http://layer.layui.com/?alone",
       "website": "http://layer.layui.com/?alone"
     },
+    "echarts":{
+      "name":"echarts图表",
+      "src":{
+        "js": ["assets/echarts/echarts.js"],
+        "resource": ["assets/echarts//type/*"]
+      },
+      "ver": "4.2.0",
+      "source": "echarts",
+      "ignoreDpds": false,
+      "require": ["jquery"],
+      "project": "http://echarts.baidu.com/examples/",
+      "website": "http://echarts.baidu.com/index.html"
+    },
     "dropdowns": {
       "name": "下拉菜单",
       "src": {
@@ -1437,7 +1450,7 @@
     },
     "seperate": {
       "title": "Seperate bundles",
-      "bundles": ["jquery", "calendar", "kindeditor", "layer","datetimepicker", "chosen", "chosenicons", "imgcutter", "datatable", "datagrid", "ieonly", "chart", "array", "hotkey", "board", "tabs", "migrate1.2", "clipboard", "prettify", "sortable", "selectable", "colorpicker", "colorset.js", "imgready", "dashboard", "bootbox", "ueditor", "uploader", "treemap", "ajaxFake"]
+      "bundles": ["jquery", "calendar", "kindeditor", "layer","echarts","datetimepicker", "chosen", "chosenicons", "imgcutter", "datatable", "datagrid", "ieonly", "chart", "array", "hotkey", "board", "tabs", "migrate1.2", "clipboard", "prettify", "sortable", "selectable", "colorpicker", "colorset.js", "imgready", "dashboard", "bootbox", "ueditor", "uploader", "treemap", "ajaxFake"]
     },
     "dist": {
       "title": "Dist bundles",

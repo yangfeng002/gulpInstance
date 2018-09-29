@@ -95,9 +95,9 @@ iframe内容可以是一个页面，也可以是一个拼装的html
 ```js
 
 ```
-<script type="text/javascript" src="http://localhost:63342/module-MGUI/dist/lib/jquery/jquery.js"></script>
-<script type="text/javascript" src="http://localhost:63342/module-MGUI/dist/lib/layer/layer.min.js"></script>
-<link type="text/css" rel="stylesheet" href="http://localhost:63342/module-MGUI/dist/lib/layer/theme/default/layer.css"/>
+
+<script src="dist/lib/layer/layer.min.js"></script>
+<link  rel="stylesheet" href="dist/lib/layer/theme/default/layer.css"/>
 <script>
    $(function(){
        //弹出一个对话框

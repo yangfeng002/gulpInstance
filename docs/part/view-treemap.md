@@ -19,7 +19,7 @@ $('#treemapExample1').treemap({
     data: {
         text: '蔬菜',
         children: [{
-            html: '<i class="icon icon-heart text-danger"></i> 我的菜',
+            html: '<i class="fa fa-heart text-danger"></i> 我的菜',
             children: [{
                 textColor: 'green',
                 text: '青菜'
@@ -285,7 +285,7 @@ $('#myTreemap').treemap();
 {
         text: '蔬菜',
         children: [{
-            html: '<i class="icon icon-heart text-danger"></i> 我的菜',
+            html: '<i class="fa fa-heart text-danger"></i> 我的菜',
             children: [{
                 textColor: 'green',
                 text: '青菜'
@@ -634,7 +634,7 @@ $('#treemapExample3').treemap({
     nodeTemplate: function(node, tree) {
         var $node = $('<div class="treemap-node"></div>');
         $node.append('<a class="treemap-node-wrapper">' + node.text + '</a>');
-        $node.find('.treemap-node-wrapper').prepend('<i class="icon icon-' + node.icon + '"></i> ');
+        $node.find('.treemap-node-wrapper').prepend('<i class="fa icon-' + node.icon + '"></i> ');
         return $node;
     }
 });
@@ -684,7 +684,7 @@ function afterPageLoad() {
           data: {
               text: '蔬菜',
               children: [{
-                  html: '<i class="icon icon-heart text-danger"></i> 我的菜',
+                  html: '<i class="fa fa-heart text-danger"></i> 我的菜',
                   children: [{
                       textColor: 'green',
                       text: '青菜'
@@ -721,7 +721,7 @@ function afterPageLoad() {
           nodeTemplate: function(node, tree) {
               var $node = $('<div class="treemap-node"></div>');
               $node.append('<a class="treemap-node-wrapper">' + node.text + '</a>');
-              $node.find('.treemap-node-wrapper').prepend('<i class="icon icon-' + node.icon + '"></i> ');
+              $node.find('.treemap-node-wrapper').prepend('<i class="fa icon-' + node.icon + '"></i> ');
               return $node;
           }
       });
