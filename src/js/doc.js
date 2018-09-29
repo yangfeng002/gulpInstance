@@ -1177,7 +1177,12 @@
                 if(data && window.marked && section.targetType === 'markdown') {
                     var $article = $();
                     var frontMatterIndex = data.indexOf('\n---\n');
-                    if(frontMatterIndex > -1) data = data.substr(frontMatterIndex + 5);
+                    var mgnext = data.indexOf('mgnext---');
+                    if(frontMatterIndex > -1 ) {
+                        data = data.substr(frontMatterIndex + 5)
+                    }else if(mgnext>-1){
+                        data = data.substr(mgnext + 11)
+                    }
                     var $markdown = $(window.marked(data));
                     var $lastSection, checkFirstH1 = true;
                     var hasH2 = $markdown.filter('h2').length > 0;

@@ -3,7 +3,8 @@ id: echarts
 description: echarts各种图表
 icon: fa-laptop
 filter:tubiao tb
----
+mgnext---
+
 
 # echarts插件
 
