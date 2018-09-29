@@ -266,7 +266,7 @@ function afterPageLoad(){
         var index = 0;
         $.mgui.store.forEach(function(key,value) {
             if(key.indexOf('//') === 0) return;
-            $storeTable.append('<tr><td>{0}</td><td class="store-name">{1}</td><td><pre style="padding: 5px; margin: 0" class="prettyprint">{2}</pre></td><td><a href="javascript:;" class="text-danger store-delete"><i class="icon-trash"></i></a></td></tr>'.format(index++, key, typeof value === 'object' ? JSON.stringify(value, null, 2) : (typeof value === 'string' ? ('"' + value + '"') : value)));
+            $storeTable.append('<tr><td>{0}</td><td class="store-name">{1}</td><td><pre style="padding: 5px; margin: 0" class="prettyprint">{2}</pre></td><td><a href="javascript:;" class="text-danger store-delete"><i class="fa fa-trash"></i></a></td></tr>'.format(index++, key, typeof value === 'object' ? JSON.stringify(value, null, 2) : (typeof value === 'string' ? ('"' + value + '"') : value)));
         });
         $storeTable.find('.store-delete').click(function() {
             $.mgui.store.remove($(this).closest('tr').children('.store-name').text());

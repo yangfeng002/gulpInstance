@@ -1,5 +1,5 @@
 /*!
- * MGUI: Chart.js - v1.0 - 2018-09-25
+ * MGUI: Chart.js - v1.0 - 2018-09-29
  * 
  * GitHub: https://github.com/yangfeng002/module-MGUI.git 
  * Copyright (c) 2018 fy; Licensed MIT

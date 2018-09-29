@@ -619,7 +619,7 @@ function afterPageLoad() {
                 peoples[Math.floor(Math.random()*peoples.length)],
                 tools[Math.floor(Math.random()*tools.length)],
                 Math.floor(Math.random()*100)/10,
-                "<a href='###'><i class='icon-ok-sign'></i></a> &nbsp; <a href='###' class='text-danger'><i class='icon-trash'></i></a> "
+                "<a href='###'><i class='fa fa-check-circle'></i></a> &nbsp; <a href='###' class='text-danger'><i class='fa fa-trash'></i></a> "
             ]};
             data.rows.push(row);
             now = new Date(now.getTime() - (Math.random()*1000*60*60));

@@ -1,7 +1,7 @@
 ﻿section: javascript
 id: modal
 description: 浮动在页面之上的对话框
-icon: icon-check-empty
+icon: fa-square-o
 filter: dhk mtk duihuakuang motaikuang
 ---
 

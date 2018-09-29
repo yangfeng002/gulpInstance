@@ -249,7 +249,7 @@ var uploader = $('#myUploader').data('mgui.uploader');
       <td>`fileTemplate`</td>
       <td>文件显示元素模板</td>
       <td>默认 `''`</td>
-      <td>当设置为空值时则使用默认模板 `<div class="file"><div class="file-progress-bar"></div><div class="file-wrapper"><div class="file-icon"><i class="icon icon-file-o"></i></div><div class="content"><div class="file-name"></div><div class="file-size small text-muted">0KB</div></div><div class="actions"><div class="file-status" data-toggle="tooltip"><i class="icon"></i> <span class="text"></span></div><a data-toggle="tooltip" class="btn btn-link btn-download-file" target="_blank"><i class="icon icon-download-alt"></i></a><button type="button" data-toggle="tooltip" class="btn btn-link btn-reset-file" title="Repeat"><i class="icon icon-repeat"></i></button><button type="button" data-toggle="tooltip" class="btn btn-link btn-rename-file" title="Rename"><i class="icon icon-pencil"></i></button><button type="button" data-toggle="tooltip" title="Remove" class="btn btn-link btn-delete-file"><i class="icon icon-trash text-danger"></i></button></div></div></div>`</td>
+      <td>当设置为空值时则使用默认模板 `<div class="file"><div class="file-progress-bar"></div><div class="file-wrapper"><div class="file-icon"><i class="icon icon-file-o"></i></div><div class="content"><div class="file-name"></div><div class="file-size small text-muted">0KB</div></div><div class="actions"><div class="file-status" data-toggle="tooltip"><i class="icon"></i> <span class="text"></span></div><a data-toggle="tooltip" class="btn btn-link btn-download-file" target="_blank"><i class="icon icon-download-alt"></i></a><button type="button" data-toggle="tooltip" class="btn btn-link btn-reset-file" title="Repeat"><i class="fa fa-repeat"></i></button><button type="button" data-toggle="tooltip" class="btn btn-link btn-rename-file" title="Rename"><i class="fa fa-pencil"></i></button><button type="button" data-toggle="tooltip" title="Remove" class="btn btn-link btn-delete-file"><i class="fa fa-trash text-danger"></i></button></div></div></div>`</td>
     </tr>
     <tr>
       <td>`fileFormater`</td>
@@ -1217,9 +1217,9 @@ $('#uploaderStaticFilesExample').uploader({
     <div class="actions">
       <div class="file-status" data-toggle="tooltip"><i class="icon"></i> <span class="text"></span></div>
       <a data-toggle="tooltip" class="btn btn-link btn-download-file" target="_blank"><i class="icon icon-download-alt"></i></a>
-      <button type="button" data-toggle="tooltip" class="btn btn-link btn-reset-file" title="Repeat"><i class="icon icon-repeat"></i></button>
-      <button type="button" data-toggle="tooltip" class="btn btn-link btn-rename-file" title="Rename"><i class="icon icon-pencil"></i></button>
-      <button type="button" data-toggle="tooltip" title="Remove" class="btn btn-link btn-delete-file"><i class="icon icon-trash text-danger"></i></button>
+      <button type="button" data-toggle="tooltip" class="btn btn-link btn-reset-file" title="Repeat"><i class="fa fa-repeat"></i></button>
+      <button type="button" data-toggle="tooltip" class="btn btn-link btn-rename-file" title="Rename"><i class="fa fa-pencil"></i></button>
+      <button type="button" data-toggle="tooltip" title="Remove" class="btn btn-link btn-delete-file"><i class="fa fa-trash text-danger"></i></button>
     </div>
   </div>
 </div>
@@ -1384,10 +1384,10 @@ $('#myUploader').uploader({
           <td><span class="file-size text-muted"></span></td>
           <td class="actions text-right" style="padding: 0 4px;">
             <div class="file-status" data-toggle="tooltip" style="margin: 8px;"><i class="icon"></i> <span class="text"></span></div>
-            <a data-toggle="tooltip" class="btn btn-link btn-download-file" target="_blank"><i class="icon icon-download-alt"></i></a>
-            <button type="button" data-toggle="tooltip" class="btn btn-link btn-reset-file" title="Repeat"><i class="icon icon-repeat"></i></button>
-            <button type="button" data-toggle="tooltip" class="btn btn-link btn-rename-file" title="Rename"><i class="icon icon-pencil"></i></button>
-            <button type="button" data-toggle="tooltip" title="Remove" class="btn btn-link btn-delete-file"><i class="icon icon-trash text-danger"></i></button>
+            <a data-toggle="tooltip" class="btn btn-link btn-download-file" target="_blank"><i class="fa fa-download"></i></a>
+            <button type="button" data-toggle="tooltip" class="btn btn-link btn-reset-file" title="Repeat"><i class="fa fa-repeat"></i></button>
+            <button type="button" data-toggle="tooltip" class="btn btn-link btn-rename-file" title="Rename"><i class="fa fa-pencil"></i></button>
+            <button type="button" data-toggle="tooltip" title="Remove" class="btn btn-link btn-delete-file"><i class="fa fa-trash text-danger"></i></button>
           </td>
         </tr>
       </tbody>
@@ -1432,10 +1432,10 @@ $('#myUploader').uploader({
         <td><span class="file-size text-muted"></span></td>
         <td class="actions text-right" style="padding: 0 4px;">
           <div class="file-status" data-toggle="tooltip" style="margin: 8px;"><i class="icon"></i> <span class="text"></span></div>
-          <a data-toggle="tooltip" class="btn btn-link btn-download-file" target="_blank"><i class="icon icon-download-alt"></i></a>
-          <button type="button" data-toggle="tooltip" class="btn btn-link btn-reset-file" title="Repeat"><i class="icon icon-repeat"></i></button>
-          <button type="button" data-toggle="tooltip" class="btn btn-link btn-rename-file" title="Rename"><i class="icon icon-pencil"></i></button>
-          <button type="button" data-toggle="tooltip" title="Remove" class="btn btn-link btn-delete-file"><i class="icon icon-trash text-danger"></i></button>
+          <a data-toggle="tooltip" class="btn btn-link btn-download-file" target="_blank"><i class="fa fa-download"></i></a>
+          <button type="button" data-toggle="tooltip" class="btn btn-link btn-reset-file" title="Repeat"><i class="fa fa-repeat"></i></button>
+          <button type="button" data-toggle="tooltip" class="btn btn-link btn-rename-file" title="Rename"><i class="fa fa-pencil"></i></button>
+          <button type="button" data-toggle="tooltip" title="Remove" class="btn btn-link btn-delete-file"><i class="fa fa-trash text-danger"></i></button>
         </td>
       </tr>
     </tbody>
