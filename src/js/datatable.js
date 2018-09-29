@@ -268,7 +268,7 @@
             col = cols[i];
             $tr = i < data.flexStart ? $left : ((i >= data.flexStart && i <= data.flexEnd) ? $flex : $right);
             if(i === 0 && checkable) {
-                $tr.append('<th data-index="check" class="check-all check-btn"><i class="icon-check-empty"></i></th>');
+                $tr.append('<th data-index="check" class="check-all check-btn"><i class="fa fa-square-o"></i></th>');
             }
             if(col.ignore) continue;
 
@@ -368,7 +368,7 @@
 
                 $tr = i < data.flexStart ? $leftRow : ((i >= data.flexStart && i <= data.flexEnd) ? $flexRow : $rightRow);
                 if(i === 0 && checkable) {
-                    $cTd = $('<td data-index="check" class="check-row check-btn"><i class="icon-check-empty"></i></td>');
+                    $cTd = $('<td data-index="check" class="check-row check-btn"><i class="fa fa-square-o"></i></td>');
                     if(options.checkboxName) {
                         $cTd.append('<input class="hide" type="checkbox" name="' + options.checkboxName + '" value="' + row.id + '">');
                     }
