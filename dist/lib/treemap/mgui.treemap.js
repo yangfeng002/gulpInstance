@@ -356,7 +356,7 @@
                 if(!$bottomLine.length) {
                     $bottomLine = $('<div class="treemap-line-bottom"/>').appendTo($wrapper);
                     if(options.foldable) {
-                        $bottomLine.append('<i class="treemap-node-fold-icon icon" style="transform: translate(-' + Math.floor(nodeCableStyle.borderWidth/2) + 'px, ' + rowSpaceHalf + 'px)"/>');
+                        $bottomLine.append('<i class="treemap-node-fold-icon fa" style="transform: translate(-' + Math.floor(nodeCableStyle.borderWidth/2) + 'px, ' + rowSpaceHalf + 'px)"/>');
                     }
                 }
                 $bottomLine.css(nodeCableStyle);
