@@ -1116,6 +1116,22 @@
           "filter": "tanchuceng tcc"
         },
         {
+          "id": "echarts",
+          "icon": "fa-line-chart",
+          "desc": "echarts图表",
+          "name": "echarts",
+          "update": "4.2.0",
+          "topics": [
+            {
+              "name": "用法"
+            },
+            {
+              "name": "示例"
+            }
+          ],
+          "filter": "tubiao tb"
+        },
+        {
           "id": "carousel",
           "icon": "fa-forward",
           "desc": "定时自动切换的图片内存",
