@@ -1,0 +1,221 @@
+/// ========================================================================
+/// Font Awesome: icons.core.less
+/// MGUI: The file has been changed in MGUI. It will not keep update with the
+/// FontAwesome version in the future.
+/// ========================================================================
+/// Font Awesome 4.7.0: The Font Awesome font is licensed under SIL OFL 1.1
+/// ========================================================================
+
+
+// font path  Font family definition----------
+@font-face {
+  font-family: @fa-font-name;
+  src: url('@{fa-font-path}/@{fa-font-file-name}.eot?v=@{fa-version}');
+  src: url('@{fa-font-path}/@{fa-font-file-name}.eot?#iefix&v=@{fa-version}') format('embedded-opentype'),
+    url('@{fa-font-path}/@{fa-font-file-name}.woff?v=@{fa-version}') format('woff'),
+    url('@{fa-font-path}/@{fa-font-file-name}.woff2?v=@{fa-version}') format('woff2'),
+    url('@{fa-font-path}/@{fa-font-file-name}.ttf?v=@{fa-version}') format('truetype'),
+    url('@{fa-font-path}/@{fa-font-file-name}.svg#regular?v=@{fa-version}') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+// Base Class Definition-------------------------
+.@{fa-css-prefix} {
+  display: inline-block;
+  font: normal normal normal @fa-font-size-base/@fa-line-height-base mgenicon; // shortening font declaration
+  font-size: inherit; // can't have font-size inherit on line above, so need to override
+  text-rendering: auto; // optimizelegibility throws things off #1094
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+// Animated Icons-------------------
+.@{fa-css-prefix}-spin {
+  -webkit-animation: fa-spin 2s infinite linear;
+  animation: fa-spin 2s infinite linear;
+}
+.@{fa-css-prefix}-pulse {
+  -webkit-animation: fa-spin 1s infinite steps(8);
+  animation: fa-spin 1s infinite steps(8);
+}
+@-webkit-keyframes fa-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(359deg);
+    transform: rotate(359deg);
+  }
+}
+@keyframes fa-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(359deg);
+    transform: rotate(359deg);
+  }
+}
+
+
+// Bordered & Pulled -------------------------
+.@{fa-css-prefix}-border {
+  padding: .2em .25em .15em;
+  border: solid .08em @fa-border-color;
+  border-radius: .1em;
+}
+.@{fa-css-prefix}-pull-left { float: left; }
+.@{fa-css-prefix}-pull-right { float: right; }
+.@{fa-css-prefix} {
+  &.@{fa-css-prefix}-pull-left { margin-right: .3em; }
+  &.@{fa-css-prefix}-pull-right { margin-left: .3em; }
+}
+/* Deprecated as of 4.4.0 */
+.pull-right { float: right; }
+.pull-left { float: left; }
+.@{fa-css-prefix} {
+  &.pull-left { margin-right: .3em; }
+  &.pull-right { margin-left: .3em; }
+}
+
+// Fixed Width Icons-------------------------
+.@{fa-css-prefix}-fw {
+  width: (18em / 14);
+  text-align: center;
+}
+
+// Icon Sizes -------------------------
+/* makes the font 33% larger relative to the icon container */
+.@{fa-css-prefix}-lg {
+  font-size: (4em / 3);
+  line-height: (3em / 4);
+  vertical-align: -15%;
+}
+.@{fa-css-prefix}-2x { font-size: 2em; }
+.@{fa-css-prefix}-3x { font-size: 3em; }
+.@{fa-css-prefix}-4x { font-size: 4em; }
+.@{fa-css-prefix}-5x { font-size: 5em; }
+
+
+// List Icons-------------------------
+.@{fa-css-prefix}-ul {
+  padding-left: 0;
+  margin-left: @fa-li-width;
+  list-style-type: none;
+  > li { position: relative; }
+}
+.@{fa-css-prefix}-li {
+  position: absolute;
+  left: -@fa-li-width;
+  width: @fa-li-width;
+  top: (2em / 14);
+  text-align: center;
+  &.@{fa-css-prefix}-lg {
+    left: (-@fa-li-width + (4em / 14));
+  }
+}
+
+
+// Mixins
+// --------------------------
+
+.fa-icon() {
+  display: inline-block;
+  font: normal normal normal @fa-font-size-base/@fa-line-height-base FontAwesome; // shortening font declaration
+  font-size: inherit; // can't have font-size inherit on line above, so need to override
+  text-rendering: auto; // optimizelegibility throws things off #1094
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
+.fa-icon-rotate(@degrees, @rotation) {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=@{rotation})";
+  -webkit-transform: rotate(@degrees);
+  -ms-transform: rotate(@degrees);
+  transform: rotate(@degrees);
+}
+.fa-icon-flip(@horiz, @vert, @rotation) {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=@{rotation}, mirror=1)";
+  -webkit-transform: scale(@horiz, @vert);
+  -ms-transform: scale(@horiz, @vert);
+  transform: scale(@horiz, @vert);
+}
+
+// Only display content to screen readers. A la Bootstrap 4.
+//
+// See: http://a11yproject.com/posts/how-to-hide-content/
+
+.sr-only() {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  border: 0;
+}
+
+// Use in conjunction with .sr-only to only display content when it's focused.
+//
+// Useful for "Skip to main content" links; see http://www.w3.org/TR/2013/NOTE-WCAG20-TECHS-20130905/G1
+//
+// Credit: HTML5 Boilerplate
+
+.sr-only-focusable() {
+  &:active,
+  &:focus {
+    position: static;
+    width: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    clip: auto;
+  }
+}
+
+
+// Rotated & Flipped Icons-------------------------
+.@{fa-css-prefix}-rotate-90  { .fa-icon-rotate(90deg, 1);  }
+.@{fa-css-prefix}-rotate-180 { .fa-icon-rotate(180deg, 2); }
+.@{fa-css-prefix}-rotate-270 { .fa-icon-rotate(270deg, 3); }
+.@{fa-css-prefix}-flip-horizontal { .fa-icon-flip(-1, 1, 0); }
+.@{fa-css-prefix}-flip-vertical   { .fa-icon-flip(1, -1, 2); }
+// Hook for IE8-9
+:root .@{fa-css-prefix}-rotate-90,
+:root .@{fa-css-prefix}-rotate-180,
+:root .@{fa-css-prefix}-rotate-270,
+:root .@{fa-css-prefix}-flip-horizontal,
+:root .@{fa-css-prefix}-flip-vertical {
+  filter: none;
+}
+
+// Screen Readers -------------------------
+.sr-only { .sr-only(); }
+.sr-only-focusable { .sr-only-focusable(); }
+
+// Stacked Icons-------------------------
+.@{fa-css-prefix}-stack {
+  position: relative;
+  display: inline-block;
+  width: 2em;
+  height: 2em;
+  line-height: 2em;
+  vertical-align: middle;
+}
+.@{fa-css-prefix}-stack-1x, .@{fa-css-prefix}-stack-2x {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  text-align: center;
+}
+.@{fa-css-prefix}-stack-1x { line-height: inherit; }
+.@{fa-css-prefix}-stack-2x { font-size: 2em; }
+.@{fa-css-prefix}-inverse { color: @fa-inverse; }
+
+

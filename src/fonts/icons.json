@@ -1,0 +1,2360 @@
+{
+  "glass":{
+   "code": "f000"
+  },
+  "music":{
+  "code": "f001"
+  },
+  "search":{
+"code": "f002"
+},
+  "envelope-o": {
+"code": "f003"
+},
+  "heart": {
+"code": "f004"
+},
+  "star": {
+"code": "f005"
+},
+  "star-o": {
+"code": "f006"
+},
+  "user": {
+"code": "f007"
+},
+  "film": {
+"code": "f008"
+},
+  "th-large": {
+"code": "f009"
+},
+  "th": {
+  "code": "f00a"
+  },
+  "th-list": {
+  "code": "f00b"
+  },
+  "check": {
+  "code": "f00c"
+  },
+  "remove":{
+    "code": "f00d"
+  },
+  "close":{
+    "code": "f00d"
+  },
+  "times": {
+  "code": "f00d"
+  },
+  "search-plus": {
+  "code": "f00e"
+  },
+  "search-minus": {
+  "code": "f010"
+  },
+  "power-off": {
+  "code": "f011"
+  },
+  "signal": {
+  "code": "f012"
+  },
+  "gear":{
+    "code": "f013"
+  },
+  "cog": {
+  "code": "f013"
+  },
+  "trash-o": {
+  "code": "f014"
+  },
+  "home": {
+  "code": "f015"
+  },
+  "file-o": {
+  "code": "f016"
+  },
+  "clock-o": {
+  "code": "f017"
+  },
+  "road": {
+  "code": "f018"
+  },
+  "download": {
+  "code": "f019"
+  },
+  "arrow-circle-o-down": {
+  "code": "f01a"
+  },
+  "arrow-circle-o-up": {
+  "code": "f01b"
+  },
+  "inbox": {
+  "code": "f01c"
+  },
+  "play-circle-o": {
+  "code": "f01d"
+  },
+  "rotate-right":{
+    "code": "f01e"
+  },
+  "repeat": {
+  "code": "f01e"
+  },
+  "refresh": {
+  "code": "f021"
+  },
+  "list-alt": {
+  "code": "f022"
+  },
+  "lock": {
+  "code": "f023"
+  },
+  "flag": {
+  "code": "f024"
+  },
+  "headphones": {
+  "code": "f025"
+  },
+  "volume-off": {
+  "code": "f026"
+  },
+  "volume-down": {
+  "code": "f027"
+  },
+  "volume-up": {
+  "code": "f028"
+  },
+  "qrcode": {
+  "code": "f029"
+  },
+  "barcode": {
+  "code": "f02a"
+  },
+  "tag": {
+  "code": "f02b"
+  },
+  "tags": {
+  "code": "f02c"
+  },
+  "book": {
+  "code": "f02d"
+  },
+  "bookmark": {
+  "code": "f02e"
+  },
+  "print": {
+  "code": "f02f"
+  },
+  "camera": {
+  "code": "f030"
+  },
+  "font": {
+  "code": "f031"
+  },
+  "bold": {
+  "code": "f032"
+  },
+  "italic": {
+  "code": "f033"
+  },
+  "text-height": {
+  "code": "f034"
+  },
+  "text-width": {
+  "code": "f035"
+  },
+  "align-left": {
+  "code": "f036"
+  },
+  "align-center": {
+  "code": "f037"
+  },
+  "align-right": {
+  "code": "f038"
+  },
+  "align-justify": {
+  "code": "f039"
+  },
+  "list": {
+  "code": "f03a"
+  },
+  "dedent":{
+    "code": "f03b"
+  },
+  "outdent": {
+  "code": "f03b"
+  },
+  "indent": {
+  "code": "f03c"
+  },
+  "video-camera": {
+  "code": "f03d"
+  },
+  "photo": {
+    "code": "f03e"
+  },
+  "image": {
+    "code": "f03e"
+  },
+  "picture-o": {
+  "code": "f03e"
+  },
+  "pencil": {
+  "code": "f040"
+  },
+  "map-marker": {
+  "code": "f041"
+  },
+  "adjust": {
+  "code": "f042"
+  },
+  "tint": {
+  "code": "f043"
+  },
+  "edit": {
+    "code": "f044"
+  },
+  "pencil-square-o": {
+  "code": "f044"
+  },
+  "share-square-o": {
+  "code": "f045"
+  },
+  "check-square-o": {
+  "code": "f046"
+  },
+  "arrows": {
+  "code": "f047"
+  },
+  "step-backward": {
+  "code": "f048"
+  },
+  "fast-backward": {
+  "code": "f049"
+  },
+  "backward": {
+  "code": "f04a"
+  },
+  "play": {
+  "code": "f04b"
+  },
+  "pause": {
+  "code": "f04c"
+  },
+  "stop": {
+  "code": "f04d"
+  },
+  "forward": {
+  "code": "f04e"
+  },
+  "fast-forward": {
+  "code": "f050"
+  },
+  "step-forward": {
+  "code": "f051"
+  },
+  "eject": {
+  "code": "f052"
+  },
+  "chevron-left": {
+  "code": "f053"
+  },
+  "chevron-right": {
+  "code": "f054"
+  },
+  "plus-circle": {
+  "code": "f055"
+  },
+  "minus-circle": {
+  "code": "f056"
+  },
+  "times-circle": {
+  "code": "f057"
+  },
+  "check-circle": {
+  "code": "f058"
+  },
+  "question-circle": {
+  "code": "f059"
+  },
+  "info-circle": {
+  "code": "f05a"
+  },
+  "crosshairs": {
+  "code": "f05b"
+  },
+  "times-circle-o": {
+  "code": "f05c"
+  },
+  "check-circle-o": {
+  "code": "f05d"
+  },
+  "ban": {
+  "code": "f05e"
+  },
+  "arrow-left": {
+  "code": "f060"
+  },
+  "arrow-right": {
+  "code": "f061"
+  },
+  "arrow-up": {
+  "code": "f062"
+  },
+  "arrow-down": {
+  "code": "f063"
+  },
+  "mail-forward":{
+    "code": "f064"
+  },
+  "share": {
+  "code": "f064"
+  },
+  "expand": {
+  "code": "f065"
+  },
+  "compress": {
+  "code": "f066"
+  },
+  "plus": {
+  "code": "f067"
+  },
+  "minus": {
+  "code": "f068"
+  },
+  "asterisk": {
+  "code": "f069"
+  },
+  "exclamation-circle": {
+  "code": "f06a"
+  },
+  "gift": {
+  "code": "f06b"
+  },
+  "leaf": {
+  "code": "f06c"
+  },
+  "fire": {
+  "code": "f06d"
+  },
+  "eye": {
+  "code": "f06e"
+  },
+  "eye-slash": {
+  "code": "f070"
+  },
+  "warning":{
+    "code": "f071"
+  },
+  "exclamation-triangle": {
+  "code": "f071"
+  },
+  "plane": {
+  "code": "f072"
+  },
+  "calendar": {
+  "code": "f073"
+  },
+  "random": {
+  "code": "f074"
+  },
+  "comment": {
+  "code": "f075"
+  },
+  "magnet": {
+  "code": "f076"
+  },
+  "chevron-up": {
+  "code": "f077"
+  },
+  "chevron-down": {
+  "code": "f078"
+  },
+  "retweet": {
+  "code": "f079"
+  },
+  "shopping-cart": {
+  "code": "f07a"
+  },
+  "folder": {
+  "code": "f07b"
+  },
+  "folder-open": {
+  "code": "f07c"
+  },
+  "arrows-v": {
+  "code": "f07d"
+  },
+  "arrows-h": {
+  "code": "f07e"
+  },
+  "bar-chart-o":{
+    "code": "f080"
+  },
+  "bar-chart": {
+  "code": "f080"
+  },
+  "twitter-square": {
+  "code": "f081"
+  },
+  "facebook-square": {
+  "code": "f082"
+  },
+  "camera-retro": {
+  "code": "f083"
+  },
+  "key": {
+  "code": "f084"
+  },
+  "gears":{
+    "code": "f085"
+  },
+  "cogs": {
+  "code": "f085"
+  },
+  "comments": {
+  "code": "f086"
+  },
+  "thumbs-o-up": {
+  "code": "f087"
+  },
+  "thumbs-o-down": {
+  "code": "f088"
+  },
+  "star-half": {
+  "code": "f089"
+  },
+  "heart-o": {
+  "code": "f08a"
+  },
+  "sign-out": {
+  "code": "f08b"
+  },
+  "linkedin-square": {
+  "code": "f08c"
+  },
+  "thumb-tack": {
+  "code": "f08d"
+  },
+  "external-link": {
+  "code": "f08e"
+  },
+  "sign-in": {
+  "code": "f090"
+  },
+  "trophy": {
+  "code": "f091"
+  },
+  "github-square": {
+  "code": "f092"
+  },
+  "upload": {
+  "code": "f093"
+  },
+  "lemon-o": {
+  "code": "f094"
+  },
+  "phone": {
+  "code": "f095"
+  },
+  "square-o": {
+  "code": "f096"
+  },
+  "bookmark-o": {
+  "code": "f097"
+  },
+  "phone-square": {
+  "code": "f098"
+  },
+  "twitter": {
+  "code": "f099"
+  },
+  "facebook-f":{
+    "code": "f09a"
+  },
+  "facebook": {
+  "code": "f09a"
+  },
+  "github": {
+  "code": "f09b"
+  },
+  "unlock": {
+  "code": "f09c"
+  },
+  "credit-card": {
+  "code": "f09d"
+  },
+  "feed":{
+    "code": "f09e"
+  },
+  "rss": {
+  "code": "f09e"
+  },
+  "hdd-o": {
+  "code": "f0a0"
+  },
+  "bullhorn": {
+  "code": "f0a1"
+  },
+  "bell": {
+  "code": "f0f3"
+  },
+  "certificate": {
+  "code": "f0a3"
+  },
+  "hand-o-right": {
+  "code": "f0a4"
+  },
+  "hand-o-left": {
+  "code": "f0a5"
+  },
+  "hand-o-up": {
+  "code": "f0a6"
+  },
+  "hand-o-down": {
+  "code": "f0a7"
+  },
+  "arrow-circle-left": {
+  "code": "f0a8"
+  },
+  "arrow-circle-right": {
+  "code": "f0a9"
+  },
+  "arrow-circle-up": {
+  "code": "f0aa"
+  },
+  "arrow-circle-down": {
+  "code": "f0ab"
+  },
+  "globe": {
+  "code": "f0ac"
+  },
+  "wrench": {
+  "code": "f0ad"
+  },
+  "tasks": {
+  "code": "f0ae"
+  },
+  "filter": {
+  "code": "f0b0"
+  },
+  "briefcase": {
+  "code": "f0b1"
+  },
+  "arrows-alt": {
+  "code": "f0b2"
+  },
+  "group":{
+    "code": "f0c0"
+  },
+  "users": {
+  "code": "f0c0"
+  },
+  "chain":{
+    "code": "f0c1"
+  },
+  "link": {
+  "code": "f0c1"
+  },
+  "cloud": {
+  "code": "f0c2"
+  },
+  "flask": {
+  "code": "f0c3"
+  },
+  "cut":{
+    "code": "f0c4"
+  },
+  "scissors": {
+  "code": "f0c4"
+  },
+  "copy":{
+    "code": "f0c5"
+  },
+  "files-o": {
+  "code": "f0c5"
+  },
+  "paperclip": {
+  "code": "f0c6"
+  },
+  "save": {
+    "code": "f0c7"
+  },
+  "floppy-o": {
+  "code": "f0c7"
+  },
+  "square": {
+  "code": "f0c8"
+  },
+  "navicon":{
+    "code": "f0c9"
+  },
+  "reorder":{
+    "code": "f0c9"
+  },
+  "bars": {
+  "code": "f0c9"
+  },
+  "list-ul": {
+  "code": "f0ca"
+  },
+  "list-ol": {
+  "code": "f0cb"
+  },
+  "strikethrough": {
+  "code": "f0cc"
+  },
+  "underline": {
+  "code": "f0cd"
+  },
+  "table": {
+  "code": "f0ce"
+  },
+  "magic": {
+  "code": "f0d0"
+  },
+  "truck": {
+  "code": "f0d1"
+  },
+  "pinterest": {
+  "code": "f0d2"
+  },
+  "pinterest-square": {
+  "code": "f0d3"
+  },
+  "google-plus-square": {
+  "code": "f0d4"
+  },
+  "google-plus": {
+  "code": "f0d5"
+  },
+  "money": {
+  "code": "f0d6"
+  },
+  "caret-down": {
+  "code": "f0d7"
+  },
+  "caret-up": {
+  "code": "f0d8"
+  },
+  "caret-left": {
+  "code": "f0d9"
+  },
+  "caret-right": {
+  "code": "f0da"
+  },
+  "columns": {
+  "code": "f0db"
+  },
+  "unsorted":{
+    "code": "f0dc"
+  },
+  "sort": {
+  "code": "f0dc"
+  },
+  "sort-down":{
+    "code": "f0dd"
+  },
+  "sort-desc": {
+  "code": "f0dd"
+  },
+  "sort-up":{
+    "code": "f0de"
+  },
+  "sort-asc": {
+  "code": "f0de"
+  },
+  "envelope": {
+  "code": "f0e0"
+  },
+  "linkedin": {
+  "code": "f0e1"
+  },
+  "rotate-left":{
+    "code": "f0e2"
+  },
+  "undo": {
+  "code": "f0e2"
+  },
+  "legal":{
+    "code": "f0e3"
+  },
+  "gavel": {
+  "code": "f0e3"
+  },
+  "dashboard":{
+    "code": "f0e4"
+  },
+  "tachometer": {
+  "code": "f0e4"
+  },
+  "comment-o": {
+  "code": "f0e5"
+  },
+  "comments-o": {
+  "code": "f0e6"
+  },
+  "flash":{
+    "code": "f0e7"
+  },
+  "bolt": {
+  "code": "f0e7"
+  },
+  "sitemap": {
+  "code": "f0e8"
+  },
+  "umbrella": {
+  "code": "f0e9"
+  },
+  "paste":{
+    "code": "f0ea"
+  },
+  "clipboard": {
+  "code": "f0ea"
+  },
+  "lightbulb-o": {
+  "code": "f0eb"
+  },
+  "exchange": {
+  "code": "f0ec"
+  },
+  "cloud-download": {
+  "code": "f0ed"
+  },
+  "cloud-upload": {
+  "code": "f0ee"
+  },
+  "user-md": {
+  "code": "f0f0"
+  },
+  "stethoscope": {
+  "code": "f0f1"
+  },
+  "suitcase": {
+  "code": "f0f2"
+  },
+  "bell-o": {
+  "code": "f0a2"
+  },
+  "coffee": {
+  "code": "f0f4"
+  },
+  "cutlery": {
+  "code": "f0f5"
+  },
+  "file-text-o": {
+  "code": "f0f6"
+  },
+  "building-o": {
+  "code": "f0f7"
+  },
+  "hospital-o": {
+  "code": "f0f8"
+  },
+  "ambulance": {
+  "code": "f0f9"
+  },
+  "medkit": {
+  "code": "f0fa"
+  },
+  "fighter-jet": {
+  "code": "f0fb"
+  },
+  "beer": {
+  "code": "f0fc"
+  },
+  "h-square": {
+  "code": "f0fd"
+  },
+  "plus-square": {
+  "code": "f0fe"
+  },
+  "angle-double-left": {
+  "code": "f100"
+  },
+  "angle-double-right": {
+  "code": "f101"
+  },
+  "angle-double-up": {
+  "code": "f102"
+  },
+  "angle-double-down": {
+  "code": "f103"
+  },
+  "angle-left": {
+  "code": "f104"
+  },
+  "angle-right": {
+  "code": "f105"
+  },
+  "angle-up": {
+  "code": "f106"
+  },
+  "angle-down": {
+  "code": "f107"
+  },
+  "desktop": {
+  "code": "f108"
+  },
+  "laptop": {
+  "code": "f109"
+  },
+  "tablet": {
+  "code": "f10a"
+  },
+  "mobile-phone":{
+    "code": "f10b"
+  },
+  "mobile": {
+  "code": "f10b"
+  },
+  "circle-o": {
+  "code": "f10c"
+  },
+  "quote-left": {
+  "code": "f10d"
+  },
+  "quote-right": {
+  "code": "f10e"
+  },
+  "spinner": {
+  "code": "f110"
+  },
+  "circle": {
+  "code": "f111"
+  },
+  "mail-reply":{
+    "code": "f112"
+  },
+  "reply": {
+  "code": "f112"
+  },
+  "github-alt": {
+  "code": "f113"
+  },
+  "folder-o": {
+  "code": "f114"
+  },
+  "folder-open-o": {
+  "code": "f115"
+  },
+  "smile-o": {
+  "code": "f118"
+  },
+  "frown-o": {
+  "code": "f119"
+  },
+  "meh-o": {
+  "code": "f11a"
+  },
+  "gamepad": {
+  "code": "f11b"
+  },
+  "keyboard-o": {
+  "code": "f11c"
+  },
+  "flag-o": {
+  "code": "f11d"
+  },
+  "flag-checkered": {
+  "code": "f11e"
+  },
+  "terminal": {
+  "code": "f120"
+  },
+  "code": {
+  "code": "f121"
+  },
+  "mail-reply-all": {
+    "code": "f122"
+  },
+  "reply-all": {
+  "code": "f122"
+  },
+  "star-half-empty":{
+    "code": "f123"
+  },
+  "star-half-full":{
+    "code": "f123"
+  },
+  "star-half-o": {
+  "code": "f123"
+  },
+  "location-arrow": {
+  "code": "f124"
+  },
+  "crop": {
+  "code": "f125"
+  },
+  "code-fork": {
+  "code": "f126"
+  },
+  "unlink":{
+    "code": "f127"
+  },
+  "chain-broken": {
+  "code": "f127"
+  },
+  "question": {
+  "code": "f128"
+  },
+  "info": {
+  "code": "f129"
+  },
+  "exclamation": {
+  "code": "f12a"
+  },
+  "superscript": {
+  "code": "f12b"
+  },
+  "subscript": {
+  "code": "f12c"
+  },
+  "eraser": {
+  "code": "f12d"
+  },
+  "puzzle-piece": {
+  "code": "f12e"
+  },
+  "microphone": {
+  "code": "f130"
+  },
+  "microphone-slash": {
+  "code": "f131"
+  },
+  "shield": {
+  "code": "f132"
+  },
+  "calendar-o": {
+  "code": "f133"
+  },
+  "fire-extinguisher": {
+  "code": "f134"
+  },
+  "rocket": {
+  "code": "f135"
+  },
+  "maxcdn": {
+  "code": "f136"
+  },
+  "chevron-circle-left": {
+  "code": "f137"
+  },
+  "chevron-circle-right": {
+  "code": "f138"
+  },
+  "chevron-circle-up": {
+  "code": "f139"
+  },
+  "chevron-circle-down": {
+  "code": "f13a"
+  },
+  "html5": {
+  "code": "f13b"
+  },
+  "css3": {
+  "code": "f13c"
+  },
+  "anchor": {
+  "code": "f13d"
+  },
+  "unlock-alt": {
+  "code": "f13e"
+  },
+  "bullseye": {
+  "code": "f140"
+  },
+  "ellipsis-h": {
+  "code": "f141"
+  },
+  "ellipsis-v": {
+  "code": "f142"
+  },
+  "rss-square": {
+  "code": "f143"
+  },
+  "play-circle": {
+  "code": "f144"
+  },
+  "ticket": {
+  "code": "f145"
+  },
+  "minus-square": {
+  "code": "f146"
+  },
+  "minus-square-o": {
+  "code": "f147"
+  },
+  "level-up": {
+  "code": "f148"
+  },
+  "level-down": {
+  "code": "f149"
+  },
+  "check-square": {
+  "code": "f14a"
+  },
+  "pencil-square": {
+  "code": "f14b"
+  },
+  "external-link-square": {
+  "code": "f14c"
+  },
+  "share-square": {
+  "code": "f14d"
+  },
+  "compass": {
+  "code": "f14e"
+  },
+  "toggle-down":{
+    "code": "f150"
+  },
+  "caret-square-o-down": {
+  "code": "f150"
+  },
+  "toggle-up":{
+    "code": "f151"
+  },
+  "caret-square-o-up": {
+  "code": "f151"
+  },
+  "toggle-right":{
+    "code": "f152"
+  },
+  "caret-square-o-right": {
+  "code": "f152"
+  },
+  "euro":{
+    "code": "f153"
+  },
+  "eur": {
+  "code": "f153"
+  },
+  "gbp": {
+  "code": "f154"
+  },
+  "dollar":{
+    "code": "f155"
+  },
+  "usd": {
+  "code": "f155"
+  },
+  "rupee":{
+    "code": "f156"
+  },
+  "inr": {
+  "code": "f156"
+  },
+  "cny":{
+    "code": "f157"
+  },
+  "rmb":{
+    "code": "f157"
+  },
+  "yen":{
+    "code": "f157"
+  },
+  "jpy": {
+  "code": "f157"
+  },
+  "ruble":{
+    "code": "f158"
+  },
+  "rouble":{
+    "code": "f158"
+  },
+  "rub": {
+  "code": "f158"
+  },
+  "won":{
+    "code": "f159"
+  },
+  "krw": {
+  "code": "f159"
+  },
+  "bitcoin":{
+    "code": "f15a"
+  },
+  "btc": {
+  "code": "f15a"
+  },
+  "file": {
+  "code": "f15b"
+  },
+  "file-text": {
+  "code": "f15c"
+  },
+  "sort-alpha-asc": {
+  "code": "f15d"
+  },
+  "sort-alpha-desc": {
+  "code": "f15e"
+  },
+  "sort-amount-asc": {
+  "code": "f160"
+  },
+  "sort-amount-desc": {
+  "code": "f161"
+  },
+  "sort-numeric-asc": {
+  "code": "f162"
+  },
+  "sort-numeric-desc": {
+  "code": "f163"
+  },
+  "thumbs-up": {
+  "code": "f164"
+  },
+  "thumbs-down": {
+  "code": "f165"
+  },
+  "youtube-square": {
+  "code": "f166"
+  },
+  "youtube": {
+  "code": "f167"
+  },
+  "xing": {
+  "code": "f168"
+  },
+  "xing-square": {
+  "code": "f169"
+  },
+  "youtube-play": {
+  "code": "f16a"
+  },
+  "dropbox": {
+  "code": "f16b"
+  },
+  "stack-overflow": {
+  "code": "f16c"
+  },
+  "instagram": {
+  "code": "f16d"
+  },
+  "flickr": {
+  "code": "f16e"
+  },
+  "adn": {
+  "code": "f170"
+  },
+  "bitbucket": {
+  "code": "f171"
+  },
+  "bitbucket-square": {
+  "code": "f172"
+  },
+  "tumblr": {
+  "code": "f173"
+  },
+  "tumblr-square": {
+  "code": "f174"
+  },
+  "long-arrow-down": {
+  "code": "f175"
+  },
+  "long-arrow-up": {
+  "code": "f176"
+  },
+  "long-arrow-left": {
+  "code": "f177"
+  },
+  "long-arrow-right": {
+  "code": "f178"
+  },
+  "apple": {
+  "code": "f179"
+  },
+  "windows": {
+  "code": "f17a"
+  },
+  "android": {
+  "code": "f17b"
+  },
+  "linux": {
+  "code": "f17c"
+  },
+  "dribbble": {
+  "code": "f17d"
+  },
+  "skype": {
+  "code": "f17e"
+  },
+  "foursquare": {
+  "code": "f180"
+  },
+  "trello": {
+  "code": "f181"
+  },
+  "female": {
+  "code": "f182"
+  },
+  "male": {
+  "code": "f183"
+  },
+  "gittip":{
+    "code": "f184"
+  },
+  "gratipay": {
+  "code": "f184"
+  },
+  "sun-o": {
+  "code": "f185"
+  },
+  "moon-o": {
+  "code": "f186"
+  },
+  "archive": {
+  "code": "f187"
+  },
+  "bug": {
+  "code": "f188"
+  },
+  "vk": {
+  "code": "f189"
+  },
+  "weibo": {
+  "code": "f18a"
+  },
+  "renren": {
+  "code": "f18b"
+  },
+  "pagelines": {
+  "code": "f18c"
+  },
+  "stack-exchange": {
+  "code": "f18d"
+  },
+  "arrow-circle-o-right": {
+  "code": "f18e"
+  },
+  "arrow-circle-o-left": {
+  "code": "f190"
+  },
+  "toggle-left":{
+    "code": "f191"
+  },
+  "caret-square-o-left": {
+  "code": "f191"
+  },
+  "dot-circle-o": {
+  "code": "f192"
+  },
+  "wheelchair": {
+  "code": "f193"
+  },
+  "vimeo-square": {
+  "code": "f194"
+  },
+  "turkish-lira":{
+    "code": "f195"
+  },
+  "try": {
+  "code": "f195"
+  },
+  "plus-square-o": {
+  "code": "f196"
+  },
+  "space-shuttle": {
+  "code": "f197"
+  },
+  "slack": {
+  "code": "f198"
+  },
+  "envelope-square": {
+  "code": "f199"
+  },
+  "wordpress": {
+  "code": "f19a"
+  },
+  "openid": {
+  "code": "f19b"
+  },
+  "institution": {
+    "code": "f19c"
+  },
+  "bank": {
+    "code": "f19c"
+  },
+  "university": {
+  "code": "f19c"
+  },
+  "mortar-board":{
+    "code": "f19d"
+  },
+  "graduation-cap": {
+  "code": "f19d"
+  },
+  "yahoo": {
+  "code": "f19e"
+  },
+  "google": {
+  "code": "f1a0"
+  },
+  "reddit": {
+  "code": "f1a1"
+  },
+  "reddit-square": {
+  "code": "f1a2"
+  },
+  "stumbleupon-circle": {
+  "code": "f1a3"
+  },
+  "stumbleupon": {
+  "code": "f1a4"
+  },
+  "delicious": {
+  "code": "f1a5"
+  },
+  "digg": {
+  "code": "f1a6"
+  },
+  "pied-piper-pp": {
+  "code": "f1a7"
+  },
+  "pied-piper-alt": {
+  "code": "f1a8"
+  },
+  "drupal": {
+  "code": "f1a9"
+  },
+  "joomla": {
+  "code": "f1aa"
+  },
+  "language": {
+  "code": "f1ab"
+  },
+  "fax": {
+  "code": "f1ac"
+  },
+  "building": {
+  "code": "f1ad"
+  },
+  "child": {
+  "code": "f1ae"
+  },
+  "paw": {
+  "code": "f1b0"
+  },
+  "spoon": {
+  "code": "f1b1"
+  },
+  "cube": {
+  "code": "f1b2"
+  },
+  "cubes": {
+  "code": "f1b3"
+  },
+  "behance": {
+  "code": "f1b4"
+  },
+  "behance-square": {
+  "code": "f1b5"
+  },
+  "steam": {
+  "code": "f1b6"
+  },
+  "steam-square": {
+  "code": "f1b7"
+  },
+  "recycle": {
+  "code": "f1b8"
+  },
+  "automobile":{
+    "code": "f1b9"
+  },
+  "car": {
+  "code": "f1b9"
+  },
+  "cab": {
+    "code": "f1ba"
+  },
+  "taxi": {
+  "code": "f1ba"
+  },
+  "tree": {
+  "code": "f1bb"
+  },
+  "spotify": {
+  "code": "f1bc"
+  },
+  "deviantart": {
+  "code": "f1bd"
+  },
+  "soundcloud": {
+  "code": "f1be"
+  },
+  "database": {
+  "code": "f1c0"
+  },
+  "file-pdf-o": {
+  "code": "f1c1"
+  },
+  "file-word-o": {
+  "code": "f1c2"
+  },
+  "file-excel-o": {
+  "code": "f1c3"
+  },
+  "file-powerpoint-o": {
+  "code": "f1c4"
+  },
+  "file-photo-o":{
+    "code": "f1c5"
+  },
+  "file-picture-o":{
+    "code": "f1c5"
+  },
+  "file-image-o": {
+  "code": "f1c5"
+  },
+  "file-zip-o": {
+    "code": "f1c6"
+  },
+  "file-archive-o": {
+  "code": "f1c6"
+  },
+  "file-sound-o":{
+    "code": "f1c7"
+  },
+  "file-audio-o": {
+  "code": "f1c7"
+  },
+  "file-movie-o":{
+    "code": "f1c8"
+  },
+  "file-video-o": {
+  "code": "f1c8"
+  },
+  "file-code-o": {
+  "code": "f1c9"
+  },
+  "vine": {
+  "code": "f1ca"
+  },
+  "codepen": {
+  "code": "f1cb"
+  },
+  "jsfiddle": {
+  "code": "f1cc"
+  },
+  "life-bouy":{
+    "code": "f1cd"
+  },
+  "life-buoy":{
+    "code": "f1cd"
+  },
+  "life-saver":{
+    "code": "f1cd"
+  },
+  "support":{
+    "code": "f1cd"
+  },
+  "life-ring": {
+  "code": "f1cd"
+  },
+  "circle-o-notch": {
+  "code": "f1ce"
+  },
+  "ra":{
+    "code": "f1d0"
+  },
+  "resistance":{
+    "code": "f1d0"
+  },
+  "rebel": {
+  "code": "f1d0"
+  },
+  "ge":{
+    "code": "f1d1"
+  },
+  "empire": {
+  "code": "f1d1"
+  },
+  "git-square": {
+  "code": "f1d2"
+  },
+  "git": {
+  "code": "f1d3"
+  },
+  "y-combinator-square":{
+    "code": "f1d4"
+  },
+  "yc-square":{
+    "code": "f1d4"
+  },
+  "hacker-news": {
+  "code": "f1d4"
+  },
+  "tencent-weibo": {
+  "code": "f1d5"
+  },
+  "qq": {
+  "code": "f1d6"
+  },
+  "wechat":{
+    "code": "f1d7"
+  },
+  "weixin": {
+  "code": "f1d7"
+  },
+  "send":{
+    "code": "f1d8"
+  },
+  "paper-plane": {
+  "code": "f1d8"
+  },
+  "send-o":{
+    "code": "f1d9"
+  },
+  "paper-plane-o": {
+  "code": "f1d9"
+  },
+  "history": {
+  "code": "f1da"
+  },
+  "circle-thin": {
+  "code": "f1db"
+  },
+  "header": {
+  "code": "f1dc"
+  },
+  "paragraph": {
+  "code": "f1dd"
+  },
+  "sliders": {
+  "code": "f1de"
+  },
+  "share-alt": {
+  "code": "f1e0"
+  },
+  "share-alt-square": {
+  "code": "f1e1"
+  },
+  "bomb": {
+  "code": "f1e2"
+  },
+  "soccer-ball-o":{
+    "code": "f1e3"
+  },
+  "futbol-o": {
+  "code": "f1e3"
+  },
+  "tty": {
+  "code": "f1e4"
+  },
+  "binoculars": {
+  "code": "f1e5"
+  },
+  "plug": {
+  "code": "f1e6"
+  },
+  "slideshare": {
+  "code": "f1e7"
+  },
+  "twitch": {
+  "code": "f1e8"
+  },
+  "yelp": {
+  "code": "f1e9"
+  },
+  "newspaper-o": {
+  "code": "f1ea"
+  },
+  "wifi": {
+  "code": "f1eb"
+  },
+  "calculator": {
+  "code": "f1ec"
+  },
+  "paypal": {
+  "code": "f1ed"
+  },
+  "google-wallet": {
+  "code": "f1ee"
+  },
+  "cc-visa": {
+  "code": "f1f0"
+  },
+  "cc-mastercard": {
+  "code": "f1f1"
+  },
+  "cc-discover": {
+  "code": "f1f2"
+  },
+  "cc-amex": {
+  "code": "f1f3"
+  },
+  "cc-paypal": {
+  "code": "f1f4"
+  },
+  "cc-stripe": {
+  "code": "f1f5"
+  },
+  "bell-slash": {
+  "code": "f1f6"
+  },
+  "bell-slash-o": {
+  "code": "f1f7"
+  },
+  "trash": {
+  "code": "f1f8"
+  },
+  "copyright": {
+  "code": "f1f9"
+  },
+  "at": {
+  "code": "f1fa"
+  },
+  "eyedropper": {
+  "code": "f1fb"
+  },
+  "paint-brush": {
+  "code": "f1fc"
+  },
+  "birthday-cake": {
+  "code": "f1fd"
+  },
+  "area-chart": {
+  "code": "f1fe"
+  },
+  "pie-chart": {
+  "code": "f200"
+  },
+  "line-chart": {
+  "code": "f201"
+  },
+  "lastfm": {
+  "code": "f202"
+  },
+  "lastfm-square": {
+  "code": "f203"
+  },
+  "toggle-off": {
+  "code": "f204"
+  },
+  "toggle-on": {
+  "code": "f205"
+  },
+  "bicycle": {
+  "code": "f206"
+  },
+  "bus": {
+  "code": "f207"
+  },
+  "ioxhost": {
+  "code": "f208"
+  },
+  "angellist": {
+  "code": "f209"
+  },
+  "cc": {
+  "code": "f20a"
+  },
+  "shekel":{
+    "code": "f20b"
+  },
+  "sheqel":{
+    "code": "f20b"
+  },
+  "ils": {
+  "code": "f20b"
+  },
+  "meanpath": {
+  "code": "f20c"
+  },
+  "buysellads": {
+  "code": "f20d"
+  },
+  "connectdevelop": {
+  "code": "f20e"
+  },
+  "dashcube": {
+  "code": "f210"
+  },
+  "forumbee": {
+  "code": "f211"
+  },
+  "leanpub": {
+  "code": "f212"
+  },
+  "sellsy": {
+  "code": "f213"
+  },
+  "shirtsinbulk": {
+  "code": "f214"
+  },
+  "simplybuilt": {
+  "code": "f215"
+  },
+  "skyatlas": {
+  "code": "f216"
+  },
+  "cart-plus": {
+  "code": "f217"
+  },
+  "cart-arrow-down": {
+  "code": "f218"
+  },
+  "diamond": {
+  "code": "f219"
+  },
+  "ship": {
+  "code": "f21a"
+  },
+  "user-secret": {
+  "code": "f21b"
+  },
+  "motorcycle": {
+  "code": "f21c"
+  },
+  "street-view": {
+  "code": "f21d"
+  },
+  "heartbeat": {
+  "code": "f21e"
+  },
+  "venus": {
+  "code": "f221"
+  },
+  "mars": {
+  "code": "f222"
+  },
+  "mercury": {
+  "code": "f223"
+  },
+  "intersex":{
+    "code": "f224"
+  },
+  "transgender": {
+  "code": "f224"
+  },
+  "transgender-alt": {
+  "code": "f225"
+  },
+  "venus-double": {
+  "code": "f226"
+  },
+  "mars-double": {
+  "code": "f227"
+  },
+  "venus-mars": {
+  "code": "f228"
+  },
+  "mars-stroke": {
+  "code": "f229"
+  },
+  "mars-stroke-v": {
+  "code": "f22a"
+  },
+  "mars-stroke-h": {
+  "code": "f22b"
+  },
+  "neuter": {
+  "code": "f22c"
+  },
+  "genderless": {
+  "code": "f22d"
+  },
+  "facebook-official": {
+  "code": "f230"
+  },
+  "pinterest-p": {
+  "code": "f231"
+  },
+  "whatsapp": {
+  "code": "f232"
+  },
+  "server": {
+  "code": "f233"
+  },
+  "user-plus": {
+  "code": "f234"
+  },
+  "user-times": {
+  "code": "f235"
+  },
+  "hotel":{
+    "code": "f236"
+  },
+  "bed": {
+  "code": "f236"
+  },
+  "viacoin": {
+  "code": "f237"
+  },
+  "train": {
+  "code": "f238"
+  },
+  "subway": {
+  "code": "f239"
+  },
+  "medium": {
+  "code": "f23a"
+  },
+  "yc":{
+    "code": "f23b"
+  },
+  "y-combinator": {
+  "code": "f23b"
+  },
+  "optin-monster": {
+  "code": "f23c"
+  },
+  "opencart": {
+  "code": "f23d"
+  },
+  "expeditedssl": {
+  "code": "f23e"
+  },
+  "battery-4":{
+    "code": "f240"
+  },
+  "battery":{
+    "code": "f240"
+  },
+  "battery-full": {
+  "code": "f240"
+  },
+  "battery-3": {
+    "code": "f241"
+  },
+  "battery-three-quarters": {
+  "code": "f241"
+  },
+  "battery-2":{
+    "code": "f242"
+  },
+  "battery-half": {
+  "code": "f242"
+  },
+  "battery-1":{
+    "code": "f243"
+  },
+  "battery-quarter": {
+  "code": "f243"
+  },
+  "battery-0":{
+    "code": "f244"
+  },
+  "battery-empty": {
+  "code": "f244"
+  },
+  "mouse-pointer": {
+  "code": "f245"
+  },
+  "i-cursor": {
+  "code": "f246"
+  },
+  "object-group": {
+  "code": "f247"
+  },
+  "object-ungroup": {
+  "code": "f248"
+  },
+  "sticky-note": {
+  "code": "f249"
+  },
+  "sticky-note-o": {
+  "code": "f24a"
+  },
+  "cc-jcb": {
+  "code": "f24b"
+  },
+  "cc-diners-club": {
+  "code": "f24c"
+  },
+  "clone": {
+  "code": "f24d"
+  },
+  "balance-scale": {
+  "code": "f24e"
+  },
+  "hourglass-o": {
+  "code": "f250"
+  },
+  "hourglass-1": {
+    "code": "f251"
+  },
+  "hourglass-start": {
+  "code": "f251"
+  },
+  "hourglass-2":{
+    "code": "f252"
+  },
+  "hourglass-half": {
+  "code": "f252"
+  },
+  "hourglass-3":{
+    "code": "f253"
+  },
+  "hourglass-end": {
+  "code": "f253"
+  },
+  "hourglass": {
+  "code": "f254"
+  },
+  "hand-grab-o":{
+    "code": "f255"
+  },
+  "hand-rock-o": {
+  "code": "f255"
+  },
+  "hand-stop-o":{
+    "code": "f256"
+  },
+  "hand-paper-o": {
+  "code": "f256"
+  },
+  "hand-scissors-o": {
+  "code": "f257"
+  },
+  "hand-lizard-o": {
+  "code": "f258"
+  },
+  "hand-spock-o": {
+  "code": "f259"
+  },
+  "hand-pointer-o": {
+  "code": "f25a"
+  },
+  "hand-peace-o": {
+  "code": "f25b"
+  },
+  "trademark": {
+  "code": "f25c"
+  },
+  "registered": {
+  "code": "f25d"
+  },
+  "creative-commons": {
+  "code": "f25e"
+  },
+  "gg": {
+  "code": "f260"
+  },
+  "gg-circle": {
+  "code": "f261"
+  },
+  "tripadvisor": {
+  "code": "f262"
+  },
+  "odnoklassniki": {
+  "code": "f263"
+  },
+  "odnoklassniki-square": {
+  "code": "f264"
+  },
+  "get-pocket": {
+  "code": "f265"
+  },
+  "wikipedia-w": {
+  "code": "f266"
+  },
+  "safari": {
+  "code": "f267"
+  },
+  "chrome": {
+  "code": "f268"
+  },
+  "firefox": {
+  "code": "f269"
+  },
+  "opera": {
+  "code": "f26a"
+  },
+  "internet-explorer": {
+  "code": "f26b"
+  },
+  "tv":{
+    "code": "f26c"
+  },
+  "television": {
+  "code": "f26c"
+  },
+  "contao": {
+  "code": "f26d"
+  },
+  "500px": {
+  "code": "f26e"
+  },
+  "amazon": {
+  "code": "f270"
+  },
+  "calendar-plus-o": {
+  "code": "f271"
+  },
+  "calendar-minus-o": {
+  "code": "f272"
+  },
+  "calendar-times-o": {
+  "code": "f273"
+  },
+  "calendar-check-o": {
+  "code": "f274"
+  },
+  "industry": {
+  "code": "f275"
+  },
+  "map-pin": {
+  "code": "f276"
+  },
+  "map-signs": {
+  "code": "f277"
+  },
+  "map-o": {
+  "code": "f278"
+  },
+  "map": {
+  "code": "f279"
+  },
+  "commenting": {
+  "code": "f27a"
+  },
+  "commenting-o": {
+  "code": "f27b"
+  },
+  "houzz": {
+  "code": "f27c"
+  },
+  "vimeo": {
+  "code": "f27d"
+  },
+  "black-tie": {
+  "code": "f27e"
+  },
+  "fonticons": {
+  "code": "f280"
+  },
+  "reddit-alien": {
+  "code": "f281"
+  },
+  "edge": {
+  "code": "f282"
+  },
+  "credit-card-alt": {
+  "code": "f283"
+  },
+  "codiepie": {
+  "code": "f284"
+  },
+  "modx": {
+  "code": "f285"
+  },
+  "fort-awesome": {
+  "code": "f286"
+  },
+  "usb": {
+  "code": "f287"
+  },
+  "product-hunt": {
+  "code": "f288"
+  },
+  "mixcloud": {
+  "code": "f289"
+  },
+  "scribd": {
+  "code": "f28a"
+  },
+  "pause-circle": {
+  "code": "f28b"
+  },
+  "pause-circle-o": {
+  "code": "f28c"
+  },
+  "stop-circle": {
+  "code": "f28d"
+  },
+  "stop-circle-o": {
+  "code": "f28e"
+  },
+  "shopping-bag": {
+  "code": "f290"
+  },
+  "shopping-basket": {
+  "code": "f291"
+  },
+  "hashtag": {
+  "code": "f292"
+  },
+  "bluetooth": {
+  "code": "f293"
+  },
+  "bluetooth-b": {
+  "code": "f294"
+  },
+  "percent": {
+  "code": "f295"
+  },
+  "gitlab": {
+  "code": "f296"
+  },
+  "wpbeginner": {
+  "code": "f297"
+  },
+  "wpforms": {
+  "code": "f298"
+  },
+  "envira": {
+  "code": "f299"
+  },
+  "universal-access": {
+  "code": "f29a"
+  },
+  "wheelchair-alt": {
+  "code": "f29b"
+  },
+  "question-circle-o": {
+  "code": "f29c"
+  },
+  "blind": {
+  "code": "f29d"
+  },
+  "audio-description": {
+  "code": "f29e"
+  },
+  "volume-control-phone": {
+  "code": "f2a0"
+  },
+  "braille": {
+  "code": "f2a1"
+  },
+  "assistive-listening-systems": {
+  "code": "f2a2"
+  },
+  "asl-interpreting":{
+    "code": "f2a3"
+  },
+  "american-sign-language-interpreting": {
+  "code": "f2a3"
+  },
+  "deafness":{
+    "code": "f2a4"
+  },
+  "hard-of-hearing":{
+    "code": "f2a4"
+  },
+  "deaf": {
+  "code": "f2a4"
+  },
+  "glide": {
+  "code": "f2a5"
+  },
+  "glide-g": {
+  "code": "f2a6"
+  },
+  "signing":{
+    "code": "f2a7"
+  },
+  "sign-language": {
+  "code": "f2a7"
+  },
+  "low-vision": {
+  "code": "f2a8"
+  },
+  "viadeo": {
+  "code": "f2a9"
+  },
+  "viadeo-square": {
+  "code": "f2aa"
+  },
+  "snapchat": {
+  "code": "f2ab"
+  },
+  "snapchat-ghost": {
+  "code": "f2ac"
+  },
+  "snapchat-square": {
+  "code": "f2ad"
+  },
+  "pied-piper": {
+  "code": "f2ae"
+  },
+  "first-order": {
+  "code": "f2b0"
+  },
+  "yoast": {
+  "code": "f2b1"
+  },
+  "themeisle": {
+  "code": "f2b2"
+  },
+  "google-plus-circle":{
+    "code": "f2b3"
+  },
+  "google-plus-official": {
+  "code": "f2b3"
+  },
+  "fa":{
+    "code": "f2b4"
+  },
+  "font-awesome": {
+  "code": "f2b4"
+  },
+  "handshake-o": {
+  "code": "f2b5"
+  },
+  "envelope-open": {
+  "code": "f2b6"
+  },
+  "envelope-open-o": {
+  "code": "f2b7"
+  },
+  "linode": {
+  "code": "f2b8"
+  },
+  "address-book": {
+  "code": "f2b9"
+  },
+  "address-book-o": {
+  "code": "f2ba"
+  },
+  "vcard":{
+    "code": "f2bb"
+  },
+  "address-card": {
+  "code": "f2bb"
+  },
+  "vcard-o": {
+    "code": "f2bc"
+  },
+  "address-card-o": {
+  "code": "f2bc"
+  },
+  "user-circle": {
+  "code": "f2bd"
+  },
+  "user-circle-o": {
+  "code": "f2be"
+  },
+  "user-o": {
+  "code": "f2c0"
+  },
+  "id-badge": {
+  "code": "f2c1"
+  },
+  "drivers-license":{
+    "code": "f2c2"
+  },
+  "id-card": {
+  "code": "f2c2"
+  },
+  "drivers-license-o":{
+    "code": "f2c3"
+  },
+  "id-card-o": {
+  "code": "f2c3"
+  },
+  "quora": {
+  "code": "f2c4"
+  },
+  "free-code-camp": {
+  "code": "f2c5"
+  },
+  "telegram": {
+  "code": "f2c6"
+  },
+  "thermometer-4":{
+    "code": "f2c7"
+  },
+  "thermometer":{
+    "code": "f2c7"
+  },
+  "thermometer-full": {
+  "code": "f2c7"
+  },
+  "thermometer-3":{
+    "code": "f2c8"
+  },
+  "thermometer-three-quarters": {
+  "code": "f2c8"
+  },
+  "thermometer-2":{
+    "code": "f2c9"
+  },
+  "thermometer-half": {
+  "code": "f2c9"
+  },
+  "thermometer-1":{
+    "code": "f2ca"
+  },
+  "thermometer-quarter": {
+  "code": "f2ca"
+  },
+  "thermometer-0":{
+    "code": "f2cb"
+  },
+  "thermometer-empty": {
+  "code": "f2cb"
+  },
+  "shower": {
+  "code": "f2cc"
+  },
+  "bathtub":{
+    "code": "f2cd"
+  },
+  "s15":{
+    "code": "f2cd"
+  },
+  "bath": {
+  "code": "f2cd"
+  },
+  "podcast": {
+  "code": "f2ce"
+  },
+  "window-maximize": {
+  "code": "f2d0"
+  },
+  "window-minimize": {
+  "code": "f2d1"
+  },
+  "window-restore": {
+  "code": "f2d2"
+  },
+  "times-rectangle":{
+    "code": "f2d3"
+  },
+  "window-close": {
+  "code": "f2d3"
+  },
+  "times-rectangle-o":{
+    "code": "f2d4"
+  },
+  "window-close-o": {
+  "code": "f2d4"
+  },
+  "bandcamp": {
+  "code": "f2d5"
+  },
+  "grav": {
+  "code": "f2d6"
+  },
+  "etsy": {
+  "code": "f2d7"
+  },
+  "imdb": {
+  "code": "f2d8"
+  },
+  "ravelry": {
+  "code": "f2d9"
+  },
+  "eercast": {
+  "code": "f2da"
+  },
+  "microchip": {
+  "code": "f2db"
+  },
+  "snowflake-o": {
+  "code": "f2dc"
+  },
+  "superpowers": {
+  "code": "f2dd"
+  },
+  "wpexplorer": {
+  "code": "f2de"
+  },
+  "meetup": {
+  "code": "f2e0"
+  }
+}
